@@ -18,6 +18,7 @@ public class MySample {
         // TODO code application logic here
         System.out.println("Hello World");
         System.out.println("Hello World");
+        System.out.println("Xiao zha bo HL");
     }
     
 }
